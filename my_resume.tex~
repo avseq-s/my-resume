@@ -38,5 +38,24 @@ India \\ % Address 3
 \CVItem{Gallery Occupancy System}{(May 2017 to Jul. 2017)}{PIR sensors mounted in the gallery to detect disturbance in gallery to switch the appliances accordingly}{}{\textit{ AVR MCU used to control the relays and read data from the sensors}}
 \Sep
 
+\CVSection{Training and Internship}
+
+\CVItem{Crash course on Machine Learning by Google}{(Pursuing)}
+
+\Sep
+
+\CVSection{Technical Skills}
+
+\begin{itemize}
+  \item C
+  \item C++
+  \item Arduino
+  \item Basic Java
+  \item Python
+  \item ROS
+  \item Basic Networking
+  \item Basic Shell Scripting
+\Sep
+   
 
 \end{document}
