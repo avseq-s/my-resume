@@ -1,0 +1,21 @@
+\documentclass[a4paper,12pt]{memoir}
+
+\input{structure.tex}
+\userinformation{
+\begin{flushright}
+\small % Smaller font size
+Abhishek Kumar \\ % name
+\url{avseq.raj255@gmail.com} \\ % email address
++91 9334939389 \\ % phone number
+\Sep % Some whitespace
+\textbf{Address} \\
+Aamgola\\ % Address 1
+Muzaffarpur, Bihar 842002 \\ % Address 2
+India \\ % Address 3
+\vfill 
+\end{flushright}
+}
+\begin{document}
+\userinformation
+\framebreak 
+\cvheading{Abhishek Kumar} % Large heading - your name
