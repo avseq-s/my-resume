@@ -68,11 +68,26 @@ India \\ % Address 3
   \item{Communication Skill}
   \item{Creativity}
   \item{Teamwork}
-  
 \Sep 
-
 \end{itemize}
 }
+
+\CVSection{Co-curricullar Activities}
+
+\CVItem{
+\begin{itemize}
+  \item{Team Member of Technical Event Organizer}
+  \item{Online Programming on Hackerearth.com}
+  \item{Member of CSE Society}
+\Sep
+\end{itemize}
+}
+\clearpage
+
+\userinformation
+
+\framebreak
+
    
 
 \end{document}
