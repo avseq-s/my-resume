@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.4.15)  19 APR 2018 22:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.4.15)  19 APR 2018 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1466,16 +1466,18 @@ File: photo.jpg Graphic file (type jpg)
  <use photo.jpg>
 Package pdftex.def Info: photo.jpg used on input line 77.
 (pdftex.def)             Requested size: 64.87195pt x 86.48303pt.
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 107.
 
 [2
 
 ] (./my_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 17214 strings out of 493304
- 291574 string characters out of 6139871
+ 17217 strings out of 493304
+ 291647 string characters out of 6139871
  402446 words of memory out of 5000000
- 20338 multiletter control sequences out of 15000+600000
- 60970 words of font info for 44 fonts, out of 8000000 for 9000
+ 20339 multiletter control sequences out of 15000+600000
+ 61639 words of font info for 46 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  64i,16n,55p,427b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/xcharter/xc
@@ -1485,10 +1487,10 @@ live/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on my_resume.pdf (2 pages, 1566239 bytes).
+Output written on my_resume.pdf (2 pages, 1567707 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
