@@ -72,6 +72,12 @@ India \\ % Address 3
 \end{itemize}
 }
 
+\clearpage
+
+\userinformation
+
+\framebreak
+
 \CVSection{Co-curricullar Activities}
 
 \CVItem{
@@ -82,12 +88,6 @@ India \\ % Address 3
 \Sep
 \end{itemize}
 }
-\clearpage
-
-\userinformation
-
-\framebreak
-
-   
+  
 
 \end{document}
