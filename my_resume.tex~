@@ -3,6 +3,7 @@
 \input{structure.tex}
 \userinformation{
 \begin{flushright}
+\includegraphics[width=0.6\columnwidth]{photo.jpg}\\
 \small % Smaller font size
 Abhishek Kumar \\ % name
 \url{avseq.raj255@gmail.com} \\ % email address
@@ -19,4 +20,7 @@ India \\ % Address 3
 \userinformation
 \framebreak 
 \cvheading{Abhishek Kumar} % Large heading - your name
+\Sep
+\CVSection{Career Objective}
+\CVItem{Entrepreneurship}
 \end{document}
